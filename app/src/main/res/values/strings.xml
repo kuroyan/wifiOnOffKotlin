@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wifiOnOff36</string>
+    <string name="change">切り替え</string>
+    <string name="showStatus">WIFI ON</string>
+    <string name="wifiOff">WIFI OFF</string>
+    <string name="wifiON">WIFI ON</string>
+</resources>
